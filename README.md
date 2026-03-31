@@ -21,6 +21,7 @@ The model was subjected to a high-resolution stress test using a continuous pote
 - **Scenarios Modeled:** 900 
 - **System Integrity Score:** 100.00%
 - **Observation:** The ERM sieve successfully mapped 100% of the continuous stable states to the discrete valid framework, proving its reliability as a decision-making tool for physical systems.
+- ![Stress Test Result](ERM_StressTest_Combined.png)
 
 ### ⚖️ License
 This project is licensed under the MIT License - see the LICENSE file for details.
