@@ -1,13 +1,13 @@
 # Equation Reduction Model (ERM) 💎🌌
 ## From Discrete Symmetry to Hybrid Hyper-Position
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19445825.svg)](https://doi.org/10.5281/zenodo.19445825)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19449554.svg)](https://doi.org/10.5281/zenodo.19449554)
 
 This repository contains the official implementation and documentation for the **Equation Reduction Model (ERM)**. The model acts as a logical sieve, mapping algebraic complexity to discrete states to verify mathematical and physical stability.
 
 ### 📜 Official Publication (Hybrid v3.0)
 For the full mathematical proof, hybrid mapping, and the "Logic Fuse" analysis, please refer to the latest Zenodo record:
-**DOI:** [10.5281/zenodo.19445825](https://doi.org/10.5281/zenodo.19445825)
+**DOI:** [10.5281/zenodo.19449554](https://doi.org/10.5281/zenodo.19449554)
 
 ---
 
