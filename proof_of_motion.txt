@@ -1,0 +1,10 @@
+ERM v3.0 VALIDATION REPORT
+--------------------------
+INPUT: A=1.0, B=Sum(0.1*10)
+MATH EXPECTATION: 0.0
+ERM OBSERVATION: 0.0000000000000001110223025
+RESULT: Asymmetry Detected.
+MOTION: Paradox Broken. 
+VERDICT: Every paradox has a resolution in a dynamic environment.
+--------------------------
+Author: Hristo Valentinov Nedelchev
