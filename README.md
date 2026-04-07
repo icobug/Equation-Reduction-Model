@@ -1,13 +1,13 @@
 # Equation Reduction Model (ERM) 💎🌌
 ## From Discrete Symmetry to Hybrid Hyper-Position
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19449554.svg)](https://doi.org/10.5281/zenodo.19449554)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19457204.svg)](https://doi.org/10.5281/zenodo.19457204)
 
 This repository contains the official implementation and documentation for the **Equation Reduction Model (ERM)**. The model acts as a logical sieve, mapping algebraic complexity to discrete states to verify mathematical and physical stability.
 
 ### 📜 Official Publication (Hybrid v3.0)
 For the full mathematical proof, hybrid mapping, and the "Logic Fuse" analysis, please refer to the latest Zenodo record:
-**DOI:** [10.5281/zenodo.19449554](https://doi.org/10.5281/zenodo.19449554)
+**[https://doi.org/10.5281/zenodo.19457204](https://doi.org/10.5281/zenodo.19457204)**
 
 ---
 
@@ -45,7 +45,34 @@ The framework establishes a three-layer logic system:
 The core ERM invariant is analytically proven via its equivalent identity:
 $$\Phi(a,b,c) = \frac{1}{2}[(a-b)^2 + (b-c)^2 + (c-a)^2]$$
 This guarantees that the model identifies only fundamentally stable mathematical architectures, ensuring $ERM \ge 0$ at all times.
+# The Smart Zero Paradigm: Resolving Logical Hyper-positions via Hybrid ERM v3.0
 
+
+
+## Overview
+This repository contains the official implementation and theoretical framework for the **Smart Zero Paradigm**. The project introduces a fundamental solution to logical deadlocks (paradoxes) by utilizing systemic entropy as a decision-making resource.
+
+## Key Concepts
+* **Smart Zero Principle**: In a dynamic computational environment, absolute zero is replaced by an infinitesimal "Smart Zero" ($10^{-17}$), which carries directional information.
+* **Nedelchev Invariant**: A mathematical approach to detect and utilize microscopic asymmetries to break logical hyper-positions.
+* **Information Vector**: The transformation of systemic noise into a deterministic path for autonomous decision-making.
+
+## Repository Structure
+* `The_Smart_Zero_Paradigm_ERM_v3_Nedelchev.pdf`: The complete scientific paper (Theory & Proof).
+* `erm_resolver.py`: The core algorithmic engine that resolves paradoxes.
+* `logic_check.py`: A diagnostic tool proving the existence of the "Smart Zero" vs. "Static Zero".
+* `proof_of_motion.txt`: Validation log demonstrating the collapse of a hyper-position into a deterministic output.
+
+## How it Works
+When a system encounters a state of perfect symmetry ($A=B=C$), classical logic fails. The ERM v3.0 model monitors the computational drift (floating-point noise). Even the smallest deviation is treated as an **Information Vector**, allowing the system to choose a direction (01 or 10) instead of crashing or looping.
+
+## Citation
+If you use this model or code in your research, please cite it using the following DOI:
+
+
+---
+**Author:** Hristo Valentinov Nedelchev  
+**Year:** 2026
 ---
 
 ### 💡 Impact
