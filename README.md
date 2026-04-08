@@ -1,13 +1,13 @@
 # Equation Reduction Model (ERM) 💎🌌
 ## From Discrete Symmetry to Hybrid Hyper-Position
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19457204.svg)](https://doi.org/10.5281/zenodo.19457204)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19474831.svg)](https://doi.org/10.5281/zenodo.19474831)
 
 This repository contains the official implementation and documentation for the **Equation Reduction Model (ERM)**. The model acts as a logical sieve, mapping algebraic complexity to discrete states to verify mathematical and physical stability.
 
 ### 📜 Official Publication (Hybrid v3.0)
 For the full mathematical proof, hybrid mapping, and the "Logic Fuse" analysis, please refer to the latest Zenodo record:
-**[https://doi.org/10.5281/zenodo.19457204](https://doi.org/10.5281/zenodo.19457204)**
+**[10.5281/zenodo.19474831](https://doi.org/10.5281/zenodo.19474831)**
 
 ---
 
@@ -68,6 +68,25 @@ When a system encounters a state of perfect symmetry ($A=B=C$), classical logic 
 
 ## Citation
 If you use this model or code in your research, please cite it using the following DOI:
+# ERM: Entropy Reduction Mechanism
+### Paradox Resolution & AI Stability Suite
+
+
+
+This repository contains the official implementation of the **Entropy Reduction Mechanism (ERM)**, developed by **Hristo Valentinov Nedelchev**. 
+
+ERM is a neural architecture layer designed to prevent systemic crashes in Artificial Intelligence when encountering mathematical singularities and logical loops.
+
+## 🚀 Key Features
+* **Symmetry Breaking:** Resolves logical stalemates using the "Smart Zero" ($10^{-17}$).
+* **Singularity Survival:** Prevents `ZeroDivisionError` by maintaining a high-potential gradient.
+* **Spectral Sensitivity:** Detects signals at the $10^{-18}$ range where standard models see only noise.
+
+## 📊 Empirical Proof
+The included `Final_Victory_Graph.png` demonstrates the divergence between standard AI (stagnation) and ERM (convergence/success) in a logarithmic scale.
+
+## 🎓 Citation
+If you use this work in your research, please cite it using the following DOI:
 
 
 ---
