@@ -97,5 +97,6 @@ If you use this work in your research, please cite it using the following DOI:
 ### 💡 Impact
 The **Nedelchev ERM** provides a language-independent tool for AI and theoretical physics to verify the structural integrity of equations without traditional computation, focusing instead on logical symmetry and balance.
 
-### ⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## ⚖️ License
+
+This project is licensed under the **GNU General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
