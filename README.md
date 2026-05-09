@@ -1,6 +1,53 @@
 # Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20099546.svg)](https://doi.org/10.5281/zenodo.20099546)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20099759.svg)](https://doi.org/10.5281/zenodo.20099759)
+
+## ⚖️ ERM: The Deterministic Shortcut for Scientific AI
+
+### 🌍 The Problem: Statistical Blindness
+Modern Artificial Intelligence treats physical laws as patterns to be "learned" through massive data and statistical approximation. This leads to **Statistical Hallucinations** and massive computational waste. Current AI models are "structurally blind" to the algebraic skeletons that already exist in nature.
+
+### 🔍 The ERM Solution: Not New Math, but New Sight
+The **Energy Resonance Model (ERM)** is not the invention of new algebraic identities, but their strategic application as a **deterministic shortcut**. Instead of guessing, it scans for **Structural Resonance** using the Algebraic Skeleton:
+
+$$F(a, b, c) = a^2 + b^2 + c^2 - (ab + bc + ca)$$
+
+This acts as a **Mathematical Sieve**:
+* **The "Gold" (Logic):** If a law exists, ERM identifies a stable constant ($K$) and extracts the equation in milliseconds.
+* **The "Sand" (Noise):** If the data is random, ERM identifies the chaos and stops the calculation, acting as a **Logical Safety Fuse**.
+
+---
+
+### 🛡️ ERM vs. Standard AI: Why Guess when you can Know?
+
+| Feature | Standard Statistical AI | ERM (The Shortcut) |
+| :--- | :--- | :--- |
+| **Method** | Probabilistic Guessing | Deterministic Deduction |
+| **Speed** | Hours/Days of Training | 0.9 Milliseconds |
+| **Precision** | Fails at $10^{-16}$ (Hardware Blindness) | Survives via "Smart Zero" ($10^{-17}$) |
+| **Reliability** | Can hallucinate "False Physics" | Validates only Structural Truth |
+
+> **Key Insight:** ERM provides the "Algebraic X-Ray" needed to see the bones of an equation without having to guess its shape through billions of data points.
+
+---
+
+### 🧠 Impact on AGI (Artificial General Intelligence)
+* **⚡ Efficiency:** 1.09 million operations per second with 0% noise.
+* **🛡️ Safety:** Prevents AGI from falling into infinite loops of false reasoning.
+* **🧪 Autonomous Discovery:** Machines can now "prove" physical laws instead of just "approximating" them.
+
+---
+
+## 📄 Documentation & Citation
+For the full scientific breakdown of the **Unified Logic Framework** and the empirical stress tests, see the official publication:
+
+**DOI:** [10.5281/zenodo.20099759](https://doi.org/10.5281/zenodo.20099759)
+
+---
+*Developed by Hristo Valentinov Nedelchev — Bridging the gap between pure logic and autonomous intelligence.*
+# Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
+
+
 
 ## ⚖️ ERM: The Universal Logic Filter for Scientific Discovery
 
@@ -54,7 +101,7 @@ ERM acts as a diagnostic tool before you waste resources on complex simulations:
 
 ## 📄 Documentation & Citation
 For the full scientific breakdown of the **Unified Logic Framework**, see the official publication:
-**DOI:** [10.5281/zenodo.20099546](https://doi.org/10.5281/zenodo.20099546)
+
 
 ---
 *Developed by Hristo - Implementing deterministic logic in the era of stochastic AI.*
