@@ -1,6 +1,66 @@
 # Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20098757.svg)](https://doi.org/10.5281/zenodo.20098757)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20099546.svg)](https://doi.org/10.5281/zenodo.20099546)
+
+## ⚖️ ERM: The Universal Logic Filter for Scientific Discovery
+
+### 🌍 Overview: The 100-Year Problem
+For centuries, discovering physical laws has relied on tedious trial and error. Today, Artificial Intelligence (AI) attempts this through **"Symbolic Regression"**, but it uses statistical guessing (neural networks). 
+
+**Standard AI has two massive flaws:**
+1. **Computational Waste:** It spends days trying millions of combinations.
+2. **Hardware Blindness:** Near the machine epsilon ($10^{-16}$), it loses precision and "hallucinates" equations that don't exist.
+
+---
+
+### 🔍 The ERM Solution: The "Algebraic X-Ray"
+The **Energy Resonance Model (ERM)** is a deterministic filter. Instead of guessing, it scans the **Structural Resonance** of data using the Algebraic Skeleton:
+
+$$F(a, b, c) = a^2 + b^2 + c^2 - (ab + bc + ca)$$
+
+This acts as a **Mathematical Sieve**:
+* **If Logic exists:** ERM identifies a stable "Gold Signal" and extracts the equation.
+* **If Logic is absent:** ERM identifies "Chaos" and stops the calculation, saving years of research time.
+
+---
+
+### 🛡️ ERM Logic Gatekeeper: Truth vs. Noise
+
+ERM acts as a diagnostic tool before you waste resources on complex simulations:
+
+| Scenario | ERM Observation | Conclusion |
+| :--- | :--- | :--- |
+| **A: Structural Logic** | Stable Ratio ($K = \text{const}$) | ✅ **Logic Found.** Extract the law immediately. |
+| **B: Random Noise** | Chaotic Ratio ($K = \text{var}$) | ❌ **No Logic.** Hypothesis is false. Stop! |
+
+> **The "Sieve" Metaphor:** You pour raw data into the ERM sieve. If "Gold" (logic) is there, it stays as a clean number. If it is just "Sand" (noise), it falls through and disappears.
+
+---
+
+### ⚔️ Comparison: Statistical AI vs. ERM
+
+* **Standard AI:** "The numbers are too big, my memory is overflowing, I will guess the answer is 0." (Hallucination).
+* **ERM:** "I measure the exact energy difference. The ratio is stable. The law is an inverse square. Done." (Deduction).
+
+---
+
+### 🧠 Impact on AGI (Artificial General Intelligence)
+
+* **⚡ Instant Discovery:** Solve in milliseconds what used to take years.
+* **🛡️ Logic Safety Fuse:** Prevents AGI from falling into loops of false reasoning.
+* **🧪 Autonomous Science:** Machines can now validate or falsify physical laws based on algebraic truth, not probability.
+
+---
+
+## 📄 Documentation & Citation
+For the full scientific breakdown of the **Unified Logic Framework**, see the official publication:
+**DOI:** [10.5281/zenodo.20099546](https://doi.org/10.5281/zenodo.20099546)
+
+---
+*Developed by Hristo - Implementing deterministic logic in the era of stochastic AI.*
+# Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
+
+
 
 ## 🚀 Overcoming the Limits of AI Symbolic Regression
 
@@ -48,7 +108,7 @@ This small function acts as a mathematical filter. By analyzing the symmetry and
 
 ## 📄 Documentation & Citation
 For a detailed mathematical breakdown, please refer to the official publication:
-**DOI:** [10.5281/zenodo.20098757](https://doi.org/10.5281/zenodo.20098757)
+
 
 ---
 *Developed by Hristo - Dedicated to the advancement of deterministic AGI logic.*
