@@ -1,6 +1,26 @@
 # Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
+# ERM: Unified Theory of Entropy Reduction Mechanism
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20813171.svg)](https://doi.org/10.5281/zenodo.20813171)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20099759.svg)](https://doi.org/10.5281/zenodo.20099759)
+## Overview
+This repository contains the complete mathematical framework and empirical validation for the **Entropy Reduction Mechanism (ERM)**. ERM is a novel computational architecture designed to eliminate floating-point rounding entropy ($\mathcal{H}_{fl}$) and mathematical singularities in complex dynamical systems.
+
+## Key Scientific Evolution
+The architecture has evolved from a discrete algebraic sieve into a **3D Topological State-Space** model. 
+* **3D Hyper-Positioning:** The system now utilizes the boundary anchors **000 (Vacuum)** and **111 (Saturation)** to navigate structural chaos without systemic collapse.
+* **Rational Phase Anchors:** By binding state-space variables to the exact rational field $\mathbb{Q}$, we achieve an execution drift of exactly **0.00000000000000000**.
+* **Paradox Resistance:** ERM functions as a logical safety fuse, making it an ideal foundation for next-generation Artificial General Intelligence (AGI).
+
+## Project Structure
+- `/paper`: Contains the LaTeX source code and the peer-reviewed theoretical framework.
+- `/src`: Includes the `erm_dynamic_benchmark.py` script for reproducing the empirical stress tests.
+- `/images`: High-fidelity comparative analysis graphs.
+
+## Quick Start
+To verify the 3D topological stability and the zero-drift rational arithmetic, run the benchmark script:
+```bash
+python src/erm_dynamic_benchmark.py
+
 
 ## ⚖️ ERM: The Deterministic Shortcut for Scientific AI
 
@@ -41,7 +61,7 @@ This acts as a **Mathematical Sieve**:
 ## 📄 Documentation & Citation
 For the full scientific breakdown of the **Unified Logic Framework** and the empirical stress tests, see the official publication:
 
-**DOI:** [10.5281/zenodo.20099759](https://doi.org/10.5281/zenodo.20099759)
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20813171.svg)](https://doi.org/10.5281/zenodo.20813171)
 
 ---
 *Developed by Hristo Valentinov Nedelchev — Bridging the gap between pure logic and autonomous intelligence.*
