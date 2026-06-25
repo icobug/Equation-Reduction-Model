@@ -1,6 +1,23 @@
 # Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
 # ERM: Unified Theory of Entropy Reduction Mechanism
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20813171.svg)](https://doi.org/10.5281/zenodo.20813171)
+# Equation Reduction Model (ERM) Core
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20841599.svg)](https://doi.org/10.5281/zenodo.20841599)
+
+## Overview
+This repository contains the complete mathematical framework and empirical validation for the **Equation Reduction Model (ERM)**. ERM is a novel computational architecture designed to eliminate floating-point rounding entropy ($\mathcal{H}_{fl}$) and mathematical singularities in complex dynamical systems.
+
+## Key Features
+* **Deterministic Ternary Logic:** Employs a ternary state framework (+1, 0, -1) to categorize data integrity.
+* **SMART_ZERO State:** A proprietary entropy-absorption layer that decouples unstable external inputs and forces the platform into an Inertial Hover Lock mode.
+* **Kinematic Verification:** Uses non-probabilistic delta-verification ($||P_{t} - P_{t-1}||_2 \le V_{max} \cdot \Delta t$) to mathematically validate telemetry vectors.
+* **Hardware-Ready:** Includes a 7-bit low-latency synchronous bus protocol for direct integration into flight controllers.
+
+## Documentation & Research
+- **Project Repository:** [https://github.com/icobug/Equation-Reduction-Model](https://github.com/icobug/Equation-Reduction-Model)
+- **DOI Reference:** [https://doi.org/10.5281/zenodo.20841599](https://doi.org/10.5281/zenodo.20841599)
+
+## Getting Started
+Refer to `erm_core_master.py` for the reference implementation of the Ternary Validation Engine and the flight avionics simulation matrix.
 
 ## Overview
 This repository contains the complete mathematical framework and empirical validation for the **Entropy Reduction Mechanism (ERM)**. ERM is a novel computational architecture designed to eliminate floating-point rounding entropy ($\mathcal{H}_{fl}$) and mathematical singularities in complex dynamical systems.
