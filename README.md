@@ -1,7 +1,40 @@
 # Autonomous Algebraic Skeleton Extraction (AASE) via Energy Resonance Model (ERM)
 # ERM: Unified Theory of Entropy Reduction Mechanism
 # Equation Reduction Model (ERM) Core
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20841599.svg)](https://doi.org/10.5281/zenodo.20841599)
+# Sentinel-K: Fail-Safe Control Architecture
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20970947.svg)](https://doi.org/10.5281/zenodo.20970947)
+
+**Sentinel-K** is an industrial-grade, fail-safe architecture designed to prevent system collapse in autonomous platforms (drones, robotics, real-time control systems). 
+
+At its core lies the **Equation Reduction Model (ERM)**—an "algorithmic fuse" that protects your system from catastrophic failures caused by sensor drift, NaN values, or extreme input spikes.
+
+## The Core Concept: Why ERM?
+Standard algorithms (like Kalman Filters or Adam) operate on blind trust—they assume every input is valid. When a "Black Swan" event occurs, they propagate the error, often leading to system crashes.
+
+**ERM acts as a guardrail.** It validates signals *before* they are processed. If an input threatens system integrity, ERM isolates the anomaly and forces the system into a safe state (Emergency Code 19), preserving hardware and logic continuity.
+
+## Key Features
+* **Fail-Safe Design:** Deterministic response to "Black Swan" events.
+* **3D Axis Isolation:** Failure in one channel (e.g., X-axis) does not compromise the global system.
+* **Drop-in Middleware:** Easily integrate the ERM layer into your existing Kalman, Adam, or PID architectures.
+* **Forensic Ready:** Automatic logging (Black Box) for post-mortem analysis.
+
+## Quick Start
+Integrating Sentinel-K is simple. Think of it as a gatekeeper for your model:
+
+```python
+from sentinel_k import Sentinel3D
+
+# Initialize the protected system
+brain = Sentinel3D()
+
+# Process sensor data safely
+clean_data = brain.process(raw_sensor_data)
+
+# Check for emergency trigger
+if any(brain.get_status()):
+    trigger_safety_protocol()
 
 ## Overview
 This repository contains the complete mathematical framework and empirical validation for the **Equation Reduction Model (ERM)**. ERM is a novel computational architecture designed to eliminate floating-point rounding entropy ($\mathcal{H}_{fl}$) and mathematical singularities in complex dynamical systems.
